@@ -1,0 +1,4 @@
+export const ADD_DEVICE = 'ADD_DEVICE';
+export const CONNECTED_DEVICE = 'CONNECTED_DEVICE';
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+export const CHANGE_DATA = 'CHANGE_DATA';
